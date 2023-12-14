@@ -1,0 +1,5 @@
+venv/
+key.pem
+cert.pem
+__pycache__/
+flask_session/
